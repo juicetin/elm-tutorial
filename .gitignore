@@ -1,4 +1,6 @@
 node_modules
+elm-stuff/build-artifacts
+elm-stuff/packages
 
 # elm-package generated files
 elm-stuff
